@@ -1,3 +1,5 @@
+package modul1;
+
 public class Buch extends Medium{
 
     private String isbn;
@@ -17,6 +19,6 @@ public class Buch extends Medium{
 
     public void anzeigen() {
         super.anzeigen();
-        System.out.println("[Buch] : ISBN -> " + this.getIsbn());
+        System.out.println("[modul1.Buch] : ISBN -> " + this.getIsbn());
     }
 }

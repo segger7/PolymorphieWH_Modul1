@@ -1,3 +1,5 @@
+package modul1;
+
 public class Cartridge extends Medium{
 
     private boolean vollständigesSet;
@@ -37,6 +39,6 @@ public class Cartridge extends Medium{
 
     public void anzeigen() {
         super.anzeigen();
-        System.out.println("[Cartridge] Ist das Set vollständig? -> " + this.isVollständigesSet() + " Entwicklerstudio -> " + this.getEntwicklerstudio() + " Konsolentyp -> " + this.getKonsole());
+        System.out.println("[modul1.Cartridge] Ist das Set vollständig? -> " + this.isVollständigesSet() + " Entwicklerstudio -> " + this.getEntwicklerstudio() + " modul1.Konsolentyp -> " + this.getKonsole());
     }
 }

@@ -1,3 +1,5 @@
+package modul1;
+
 public class VHS extends Medium {
 
     private int spieldauer;
@@ -27,6 +29,6 @@ public class VHS extends Medium {
 
     public void anzeigen() {
         super.anzeigen();
-        System.out.println("[VHS] Spieldauer -> " + this.getSpieldauer() + " Qualität -> " + this.getQualität());
+        System.out.println("[modul1.VHS] Spieldauer -> " + this.getSpieldauer() + " Qualität -> " + this.getQualität());
     }
 }

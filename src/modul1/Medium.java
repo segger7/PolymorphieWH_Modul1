@@ -1,3 +1,5 @@
+package modul1;
+
 public class Medium {
 
     private String titel;
@@ -35,6 +37,6 @@ public class Medium {
     }
 
     public void anzeigen() {
-        System.out.println("Medium: Titel -> " + this.getTitel() + " Standort -> " + this.getStandort() + " Wert -> " + this.getWert());
+        System.out.println("modul1.Medium: Titel -> " + this.getTitel() + " Standort -> " + this.getStandort() + " Wert -> " + this.getWert());
     }
 }

@@ -1,3 +1,5 @@
+package modul1;
+
 public class App {
 
     public static void main(String[] args) {
@@ -15,7 +17,7 @@ public class App {
         bib.alleMedienAusgeben();
 
         System.out.println("");
-        System.out.println("--- alle VHS in der Liste ---");
+        System.out.println("--- alle modul1.VHS in der Liste ---");
         for(VHS vhs : bib.alleVHSalsListe())
         {
             vhs.anzeigen();
