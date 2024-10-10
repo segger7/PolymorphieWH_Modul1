@@ -17,3 +17,28 @@ Restliches Modul 1 hinzugefügt
 Die Weiteren Mediumtypen modul1.VHS, modul1.Cartridge und modul1.Buch hinzugefügt
 
 Die modul1.App-Klasse weiter ausgebaut um die vollständige Funktionalität zu erfüllen.
+
+### Fragen für das Lerntagebuch
+
+1. Was habe ich im Rahmen der Lernaufgabe gelernt (Lernertrag)?
+
+Mir waren grundsätzlich alle Konzepte schon vorher bekannt aber ich habe durch
+die Aufgabe die Konzepte nochmal wiederholen können.
+
+2. Was habe ich noch überhaupt nicht verstanden?
+
+Ich habe alles verstanden.
+
+3. Was ich dazugelernt habe und jetzt besser kann:
+
+Ich habe nichts spezifisch neues dazugelernt aber um
+die Konzepte zu festigen war die Aufgabe gut.
+
+4. !Ungültiger Link! zur Fragestellung
+
+5. !Ungültiger Link! zur Fragestellung
+
+6. Wie wird es weitergehen?
+
+Ich denke das ich alles von dieser Aufgabe sehr gut
+verstanden habe.
